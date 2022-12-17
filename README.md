@@ -32,7 +32,6 @@ sol = np.linalg.solve(a,b)
 print(sol)
 ```
 
-
 ## Output:
 ![output+](./output1.png)
 
